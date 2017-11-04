@@ -1,0 +1,23 @@
+(module Pin_Headers:Pin_Header_Straight_1x08_Pitch1.27mm locked (layer F.Cu) (tedit 59F5A506)
+  (descr "Through hole straight pin header, 1x08, 1.27mm pitch, single row")
+  (tags "Through hole pin header THT 1x08 1.27mm single row")
+  (fp_text reference REF** (at 0 -1.755) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Pin_Header_Straight_1x08_Pitch1.27mm (at 0 10.645) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 1 1) (drill 0.65) (layers *.Cu B.Mask))
+  (pad 2 thru_hole oval (at 0 1.27) (size 1 1) (drill 0.65) (layers *.Cu B.Mask))
+  (pad 3 thru_hole oval (at 0 2.54) (size 1 1) (drill 0.65) (layers *.Cu B.Mask))
+  (pad 4 thru_hole oval (at 0 3.81) (size 1 1) (drill 0.65) (layers *.Cu B.Mask))
+  (pad 5 thru_hole oval (at 0 5.08) (size 1 1) (drill 0.65) (layers *.Cu B.Mask))
+  (pad 6 thru_hole oval (at 0 6.35) (size 1 1) (drill 0.65) (layers *.Cu B.Mask))
+  (pad 7 thru_hole oval (at 0 7.62) (size 1 1) (drill 0.65) (layers *.Cu B.Mask))
+  (pad 8 thru_hole oval (at 0 8.89) (size 1 1) (drill 0.65) (layers *.Cu B.Mask))
+  (model Pin_Headers.3dshapes/Pin_Header_Straight_1x08_Pitch1.27mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

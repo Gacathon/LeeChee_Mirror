@@ -1,0 +1,67 @@
+Cmp-Mod V01 Created by PcbNew   date = 2017/4/27 星期四 23:41:57
+
+BeginCmp
+TimeStamp = 590EF997
+Path = /590260E2
+Reference = J1;
+ValeurCmp = SW;
+IdModule  = Buttons_Switches_THT:SW_DIP_x4_W7.62mm_Slide_LowProfile;
+EndCmp
+
+BeginCmp
+TimeStamp = 590EF9B2
+Path = /5901B8D2
+Reference = J2;
+ValeurCmp = CONN_01X09;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x09_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5911B07F
+Path = /5903A94D
+Reference = J3;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5914B641
+Path = /5903AD66
+Reference = J4;
+ValeurCmp = USB_A;
+IdModule  = Connectors:USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = 5914B655
+Path = /5903ADB3
+Reference = J5;
+ValeurCmp = USB_A;
+IdModule  = Connectors:USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = 59177A56
+Path = /5903B46D
+Reference = J6;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 590793E2
+Path = /5903B715
+Reference = J7;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 590793F5
+Path = /5903B74E
+Reference = J8;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+EndListe
